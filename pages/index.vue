@@ -61,4 +61,11 @@ export default {
   content: '_';
   animation: blink-caret 1s infinite step-end; /* Adjust the animation */
 }
+
+@media screen and (max-width: 640px) {
+  .font-martian-mono {
+    /* Adjust font size for small screens */
+    font-size: 1rem;
+  }
+}
 </style>
