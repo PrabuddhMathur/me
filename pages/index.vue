@@ -2,9 +2,9 @@
   <div class="flex items-center justify-center h-screen dark:bg-gray-900">
     <pre>
       <h1 class="text-5xl font-bold text-gray-800 dark:text-white font-martian-mono">Hello, Prabuddh Mathur here!</h1>
-      <h1 class="text-3xl font-bold text-gray-800 dark:text-white font-martian-mono">Reach me</h1>
-      <a class="text-2xl font-bold text-gray-800 dark:text-white font-martian-mono" href="https://linkedin.com/in/prabuddhmathur" target="_blank"> @Linked In</a>
-      <a class="text-2xl font-bold text-gray-800 dark:text-white font-martian-mono" href="mailto:me@prabuddh.in" target="_blank"> me@prabuddh.in</a>
+      <h1 class="text-3xl font-bold text-gray-800 dark:text-white font-martian-mono">Reach me@</h1>
+      <a class="text-2xl font-bold text-gray-800 dark:text-white font-martian-mono" href="https://linkedin.com/in/prabuddhmathur" target="_blank">Linked In</a>
+      <a class="text-2xl font-bold text-gray-800 dark:text-white font-martian-mono" href="mailto:me@prabuddh.in" target="_blank">Email</a>
       <h2 class="text-2xl font-bold text-gray-800 dark:text-white font-martian-mono">$ <span id="typing-text"></span></h2>
     </pre>
   </div>
